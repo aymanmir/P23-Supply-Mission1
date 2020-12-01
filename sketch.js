@@ -75,8 +75,8 @@ function draw() {
   background(0);
   textSize(20);
 fill ("white");
-text("Supply Mission-1", 250,30);
-  text("Press Down Arrow to Drop the Supply Package",200,70);
+text("Supply Mission-2", 250,30);
+  text("Press Down Arrow to Drop the Supply Package in the Red Block",150,70);
   packageSprite.x= packageBody.position.x 
   packageSprite.y= packageBody.position.y 
  //packageSprite.x=200;
